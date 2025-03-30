@@ -2,11 +2,11 @@
 <hr>
 A project based on IoT (Internet of Things) 
 <hr>
- Project ke baare mei -----
+A Project based on Raspberry Pi model and using Python and real life sensors to make a beautiful weather detector 
  
  <hr>
  
- Made my Kartikey bhardwaj 
+ Made By Kartikey bhardwaj 
          Adarsh 
          Gurdita singh maan
          Irfan Ali 
